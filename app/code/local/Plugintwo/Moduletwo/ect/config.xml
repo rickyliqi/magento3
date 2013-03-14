@@ -1,0 +1,7 @@
+<config>
+    <modules>
+        <Plugintwo_Moduletwo>
+            <version>1.0.1</version>
+        </Plugintwo_Moduletwo>
+    </modules>
+</config>
