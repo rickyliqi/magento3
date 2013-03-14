@@ -16,7 +16,7 @@ $wampConfFile = '../../wampmanager.conf';
 //chemin jusqu'aux fichiers alias
 $aliasDir = '../../alias/';
 
-
+fd
 
 // on charge le fichier de conf locale
 if (!is_file($wampConfFile))
