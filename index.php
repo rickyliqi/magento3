@@ -28,6 +28,7 @@
  * this is line two
  * This is line three
  * This is line four
+ * YQ added this line after line 4
  */
 if (version_compare(phpversion(), '5.2.0', '<')===true) {
     echo  '<div style="font:12px/1.35em arial, helvetica, sans-serif;">
