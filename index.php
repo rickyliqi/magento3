@@ -24,14 +24,14 @@
  * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 /**
- * This is line one
+ * This is line one (edited by YQ)
  * this is line two
  * This is line three
  * This is line four
  * YQ added this line after line 4
  * This is another line added by YQ (after creating gitflow branch yq)
  * Add another line to demostrate test (added by YQ)
- * add line
+ * add line (edited by YQ)
  */
 if (version_compare(phpversion(), '5.2.0', '<')===true) {
     echo  '<div style="font:12px/1.35em arial, helvetica, sans-serif;">
