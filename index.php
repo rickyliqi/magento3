@@ -31,6 +31,7 @@
  * YQ added this line after line 4
  * This is another line added by YQ (after creating gitflow branch yq)
  * Add another line to demostrate test (added by YQ)
+ * add line
  */
 if (version_compare(phpversion(), '5.2.0', '<')===true) {
     echo  '<div style="font:12px/1.35em arial, helvetica, sans-serif;">
